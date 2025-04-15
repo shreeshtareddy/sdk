@@ -3,7 +3,7 @@ from botocore.exceptions import ClientError
 
 # Replace with your region
 region = 'us-east-1'  # or 'ap-south-1', 'us-west-2', etc.
-bucket_name = 'tejaswi-bucket-2002'  # Make sure this is unique globally
+bucket_name = 'bucket174463276'  # Make sure this is unique globally
 
 # Initialize session
 session = boto3.session.Session(region_name=region)
